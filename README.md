@@ -1,4 +1,4 @@
-# **Simple python projects**
+# **Simple Python Projects**
 
 ## RELEVANT TECHNOLOGIES USED
 * Python
