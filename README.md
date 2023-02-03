@@ -11,9 +11,12 @@
 - https://www.geeksforgeeks.org/python-implementation-automatic-tic-tac-toe-game-using-random-number/
 
 ## References for Simple Calculator
-- https://www.geeksforgeeks.org/make-simple-calculator-using-python/https://www.geeksforgeeks.org/make-simple-calculator-using-python/
+- https://www.geeksforgeeks.org/make-simple-calculator-using-python/https://www.geeksforgeeks.org/make-simple-calculator-using-python/`
 - https://www.youtube.com/watch?v=B1U0gUhUeQs
 
+## References for Weather-App
+- https://www.geeksforgeeks.org/python-real-time-weather-detection-using-tkinter/
+- https://github.com/Tomasz-Kluczkowski/Weather-App
 
 ## Tools Used
 -  Git
