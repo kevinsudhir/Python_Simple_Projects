@@ -1,6 +1,6 @@
-# **Simple python projects**
+# **Simple Python Projects**
 
->## RELEVANT TECHNOLOGIES USED
+## RELEVANT TECHNOLOGIES USED
 * Python
 * Python GUI
 * Tkinter Module
@@ -11,10 +11,10 @@
 - https://www.geeksforgeeks.org/python-implementation-automatic-tic-tac-toe-game-using-random-number/
 
 ## References for Simple Calculator
-- https://www.geeksforgeeks.org/make-simple-calculator-using-python/https://www.geeksforgeeks.org/make-simple-calculator-using-python/`
+- https://www.geeksforgeeks.org/make-simple-calculator-using-python/https://www.geeksforgeeks.org/make-simple-calculator-using-python/
 - https://www.youtube.com/watch?v=B1U0gUhUeQs
 
 
->## Tools Used
+## Tools Used
 -  Git
 -  Code Editor - Visual Studio Code
