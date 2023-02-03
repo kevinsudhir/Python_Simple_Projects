@@ -19,4 +19,3 @@ for i in range(length):
     t.circle(size)
     t.end_fill()
 turtle.exitonclick()
-turtle.bgcolor("black")

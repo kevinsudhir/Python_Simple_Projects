@@ -94,7 +94,7 @@ ln = Button(root, text="ln", padx=28, pady=10, relief=RAISED, bg="Black", fg="Wh
 ln.bind("<Button-1>", sc)
 par1st = Button(root, text="(", padx=29, pady=10, relief=RAISED, bg="Black", fg="White",command=lambda: click("("))
 par2nd = Button(root, text=")", padx=30, pady=10, relief=RAISED, bg="Black", fg="White",command=lambda: click(")"))
-dot = Button(root, text=".", padx=29, pady=10, relief=RAISED, bg="Green", fg="Black",command=lambda: click("."))
+dot = Button(root, text=".", padx=29, pady=10, relief=RAISED, bg="Black", fg="White",command=lambda: click("."))
 
 exp = Button(root, text="^", padx=29, pady=10, relief=RAISED, bg="Black", fg="White", command=lambda: click("**"))
 
@@ -139,7 +139,7 @@ plus = Button(root, text="+", padx=29, pady=10, relief=RAISED, bg="Yellow", fg="
 e_b = Button(root, text="e", padx=29, pady=10, relief=RAISED, bg="Black", fg="White")
 e_b.bind("<Button-1>", sc)
 zero = Button(root, text="0", padx=29, pady=10, relief=RAISED, bg="Grey", fg="White",command=lambda: click("0"))
-equal = Button(root, text="=", padx=29, pady=10, relief=RAISED, bg="Dark Orange", fg="Black",command=lambda: evaluate())
+equal = Button(root, text="=", padx=29, pady=10, relief=RAISED, bg="Green", fg="Black",command=lambda: evaluate())
 
 
 bksp.grid(row=1, column=0)
