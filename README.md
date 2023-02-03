@@ -1,6 +1,6 @@
 # **Simple python projects**
 
->## RELEVANT TECHNOLOGIES USED
+## RELEVANT TECHNOLOGIES USED
 * Python
 * Python GUI
 * Tkinter Module
@@ -15,6 +15,6 @@
 - https://www.youtube.com/watch?v=B1U0gUhUeQs
 
 
->## Tools Used
+## Tools Used
 -  Git
 -  Code Editor - Visual Studio Code
